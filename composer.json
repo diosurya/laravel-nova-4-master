@@ -15,7 +15,6 @@
         "laravel/nova": "*",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
-        "murdercode/nova4-tinymce-editor": "^1.2",
         "outl1ne/nova-multiselect-field": "^4.2",
         "sendinblue/api-v3-sdk": "8.x.x"
     },
